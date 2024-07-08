@@ -34,6 +34,7 @@ Methodology:-
   ➡ After renaming the site click on the link, it will be directed to a website
 
 (Website link: https://jobortal1.netlify.app/)
+(Google Drive Link for dataset and tableau file: https://drive.google.com/drive/folders/1eXUbnX3K4V1gBn9WZbUHvwmjx86MWGTU?usp=sharing)
   
   
    
