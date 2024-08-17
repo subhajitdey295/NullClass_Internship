@@ -9,29 +9,32 @@ Objective:-
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Methodology:-
-✔ Python Analysis:
-   ➡ Import the CSV file into Jupiter Notebook. 
-   ➡ Remove the null values, and duplicates and clean the data
-   ➡ Export the data to the desired folder
+✔ Python Data Preparation
+  ➡ Data Import: Loaded the CSV file into Jupyter Notebook for analysis.
+  ➡ Data Cleaning: Removed null values, duplicates, and inconsistencies to ensure data accuracy.
+  ➡ Data Export: Exported the cleaned data to a designated folder for further use.
 
-✔ Tableau:
-   ➡ Import the data, create the worksheets, and create a dashboard
-   ➡ Save the dashboard in Tableau Public
-   ➡ Open the dashboard from Tableau Public and edit the heading and the details
-   ➡ Click on the share option and select the link
+✔ Tableau Visualization
+   ➡ Data Import: Incorporated the cleaned data into Tableau.
+   ➡ Worksheet Creation: Designed and created informative worksheets to visualize key metrics and trends.
+   ➡ Dashboard Development: Assembled the worksheets into a comprehensive dashboard, providing a unified view of the data.
+   ➡ Publication: Shared the dashboard publicly on Tableau Public for accessibility.
+   ➡ Customization: Adjusted the dashboard's heading and details to align with project requirements.
+   ➡ Link Generation: Created a shareable link to the dashboard for easy dissemination.
 
-✔ HTML:
-   ➡ Open Visual Studio Code from the search bar
-   ➡ Create a new index file and copy-paste the link
-   ➡ Make indentation changes in the HTML file and click on run
+✔ HTML Integration
+   ➡ Development Environment: Opened Visual Studio Code and created a new HTML index file.
+   ➡ Link Embedding: Incorporated the Tableau Public dashboard link into the HTML file.
+   ➡ Code Formatting: Ensured proper indentation and formatting for HTML compatibility.
+   ➡ Execution: Ran the HTML file to preview the integrated dashboard.
 
-✔ Live Portal:
-  ➡ Search Netlify in Google and click Sign Up
-  ➡ Click on add a new site and deploy manually
-  ➡ Upload the relevant folder associated with the project
-  ➡ After uploading click the back option and select the project
-  ➡ Go to site configuration and click on change site name
-  ➡ After renaming the site click on the link, it will be directed to a website
+✔ Live Deployment
+   ➡ Platform Selection: Chose Netlify as the deployment platform.
+   ➡ Site Creation: Created a new site on Netlify and selected manual deployment.
+   ➡ Project Upload: Uploaded the relevant project folder containing the HTML file and Tableau dashboard link.
+   ➡ Site Configuration: Renamed the site for better identification.
+   ➡ Access: Accessed the deployed website using the generated link, showcasing the integrated dashboard.
+
 
 (Website link: https://jobortal1.netlify.app/)
 (Google Drive Link for dataset and tableau file: https://drive.google.com/drive/folders/1eXUbnX3K4V1gBn9WZbUHvwmjx86MWGTU?usp=sharing)
