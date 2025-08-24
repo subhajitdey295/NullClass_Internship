@@ -41,7 +41,7 @@
       ➡ Practical Deployment Skills: Showcases ability to not only analyze data but also integrate analytics with front-end and hosting platforms.
       ➡ Scalable Framework: This deployment method can be reused for different datasets, making analytics outputs shareable and professional.
       
- 6. Screenshots:
+ 6. Screenshot:
     Show what the dashboard looks like: <img width="1667" height="805" alt="Screenshot (243)" src="https://github.com/user-attachments/assets/b94e18b6-ef06-4227-9ae2-6060d8201fbc" />
 
 
