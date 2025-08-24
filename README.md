@@ -1,44 +1,47 @@
 # Recruiting_ Sector_Tableau_Dashboard(Real Time Job Analytics Portal)
 
-Objective:- 
-✔ Draw a chart between company size and company name where company size<50000, job title should be mechanical engineer, the experience should not be more than 5 years, country should be Asian as well as salary should be more than $50k and the work type should be both part time and full time and ignore all other work types and the preference should be male. we should filter candidates for those who are applied on Idealist and this chart should work only between 3 Pm to 6 Pm.
+1. Project Title:
+   Data Analysis to Live Website: Interactive Tableau Dashboard Deployment
+   An end-to-end workflow transforming raw CSV data into a cleaned dataset, interactive Tableau visualizations, and a live-deployed dashboard accessible via the web.
+       
+2. Purpose of the project:
+   This project showcases how raw data can be prepared, analyzed, and converted into a live interactive dashboard. It demonstrates not only data analytics skills but also the ability to integrate dashboards into a website       for global accessibility and practical business use.
 
-✔ Draw a chart where qualification=’B.tech,M.tech,PhD’ and work type=’Full time’. The country should be African continent and ignore other countries. The job title should start with the letter ‘D’ and the preference should be a Male. The company size should be more than 80000. The contact person should start with the letter ‘A’ and the Job portal should be indeed. We need to place a latitude and longitude and if we click on latitude and longitude we will open a map and show the exact location.
+3. Tech Stack:
+   The project was built using the following tools and technologies:
+   ✔ Python (Jupyter Notebook, Pandas) – Data cleaning and preparation.
+   ✔ Tableau Public – Interactive visualization and dashboard creation.
+   ✔ HTML (VS Code) – Embedding the Tableau dashboard into a web page.
+   ✔ Netlify – Website hosting and live deployment.
+   ✔ CSV Dataset – Source dataset containing company details and attributes.
 
-✔ Draw a chart where country = 'India and Germany ’,qualification=’B.tech’ and work type=’Full time’ where experience should be more than 2 years and the job should be Data Science, and the salary range should be more than $100k. The Indian details should be orange color and the Germany details should be green color. The job portal should be indeed and preference should be female. The job posting date should be below 08/01/2023 and the job portal should be indeed. This chart should swap color after 12 PM to 6 PM.
-
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Methodology:-
-✔ Python Data Preparation
-  ➡ Data Import: Loaded the CSV file into Jupyter Notebook for analysis.
-  ➡ Data Cleaning: Removed null values, duplicates, and inconsistencies to ensure data accuracy.
-  ➡ Data Export: Exported the cleaned data to a designated folder for further use.
-
-✔ Tableau Visualization
-   ➡ Data Import: Incorporated the cleaned data into Tableau.
-   ➡ Worksheet Creation: Designed and created informative worksheets to visualize key metrics and trends.
-   ➡ Dashboard Development: Assembled the worksheets into a comprehensive dashboard, providing a unified view of the data.
-   ➡ Publication: Shared the dashboard publicly on Tableau Public for accessibility.
-   ➡ Customization: Adjusted the dashboard's heading and details to align with project requirements.
-   ➡ Link Generation: Created a shareable link to the dashboard for easy dissemination.
-
-✔ HTML Integration
-   ➡ Development Environment: Opened Visual Studio Code and created a new HTML index file.
-   ➡ Link Embedding: Incorporated the Tableau Public dashboard link into the HTML file.
-   ➡ Code Formatting: Ensured proper indentation and formatting for HTML compatibility.
-   ➡ Execution: Ran the HTML file to preview the integrated dashboard.
-
-✔ Live Deployment
-   ➡ Platform Selection: Chose Netlify as the deployment platform.
-   ➡ Site Creation: Created a new site on Netlify and selected manual deployment.
-   ➡ Project Upload: Uploaded the relevant project folder containing the HTML file and Tableau dashboard link.
-   ➡ Site Configuration: Renamed the site for better identification.
-   ➡ Access: Accessed the deployed website using the generated link, showcasing the integrated dashboard.
-
-
-(Website link: https://jobortal1.netlify.app/)
-(Google Drive Link for dataset and tableau file: https://drive.google.com/drive/folders/1eXUbnX3K4V1gBn9WZbUHvwmjx86MWGTU?usp=sharing)
+4. Data Source: CSV dataset (compnay-level data).
+   ✔ Fields included company name, size, employee count, job roles, preferences, salary ranges, and qualifications.
+   ✔ Cleaned using Jupyter Notebook to handle:
+      ➡ Handling missing/null values.
+      ➡ Inconsistent entries.
+      ➡ Standardizing formats and exporting the cleaned dataset for visualization.
   
-  
+5. Features / Highlights:
+   ✔ Business Problem: Dashboards often stay local, making insights hard to share with recruiters, analysts, or business leaders. A live deployment ensures easy access and collaboration across teams.
+   ✔ Goal of the Dashboard:
+      To built a workflow that:
+        ➡ Prepares and cleans raw company dataset.
+        ➡ Creates interactive visualizations in Tableau.
+        ➡ Publishes the dashboard online for universal access.
    
+   ✔ Walkthrough of Key Visuals:
+      ➡ Company Size vs Company Name (Bar Chart): This chart ranks companies by their maximum company size. Larger bars represent companies with higher workforce capacity. For example, companies like Tata Steel, ICICI Bank,          and Comcast show up with higher maximum employee counts. This helps identify major employers and industry giants.
+      ➡ Company Size vs Company Name (Bar Chart): This visualization focuses on the minimum company size recorded for each company. Companies such as Croda International, The Coca-Cola Company, Bajaj Electricals, and                 Deutsche Bahn AG appear, providing insight into smaller-scale operations or minimum reported workforce sizes.
+
+   ✔ Business Impact & Insights:
+      ➡ Global Accessibility: Dashboards are no longer confined to Tableau Desktop — they are now live websites accessible from anywhere.
+      ➡ Company Comparisons: Users can benchmark company sizes and analyze top recruiters or industries.
+      ➡ Recruitment Insights: Filters allow HR teams to focus on roles, qualifications, and work types that align with hiring needs.
+      ➡ Practical Deployment Skills: Showcases ability to not only analyze data but also integrate analytics with front-end and hosting platforms.
+      ➡ Scalable Framework: This deployment method can be reused for different datasets, making analytics outputs shareable and professional.
+      
+ 6. Screenshots:
+    Show what the dashboard looks like: <img width="1667" height="805" alt="Screenshot (243)" src="https://github.com/user-attachments/assets/b94e18b6-ef06-4227-9ae2-6060d8201fbc" />
+
 
